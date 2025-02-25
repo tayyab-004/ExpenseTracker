@@ -19,6 +19,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "7.43",
     "react-icons": "^4.7.1",
+    "rollup": "^4.34.8",
     "styled-components": "^6.0.8",
     "zod": "^3.24.2"
   },
