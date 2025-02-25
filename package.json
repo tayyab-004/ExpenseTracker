@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@babel/traverse": "^7.26.9",
     "@hookform/resolvers": "^2.9.11",
     "bootstrap": "^5.3.1",
     "immer": "^9.0.19",
